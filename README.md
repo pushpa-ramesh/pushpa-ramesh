@@ -55,36 +55,6 @@ I am passionate about developing **real-time intelligent systems** using:
 
 ---
 
-## 📌 Projects
-
-### 🤖 LLM-Based Robot Commander (ROS2)
-**Technologies:** Python, ROS2, PyTorch, Transformers  
-- Developed a voice-controlled robot system  
-- Converted speech into movement commands  
-- Controlled robot using ROS2 communication  
-- Integrated LLM for intelligent responses  
-- Added voice feedback for interaction  
-
----
-
-### 🩺 AyurAI: Smart Health Assistant
-**Technologies:** HTML, CSS, JavaScript, Web Speech API  
-- Built a voice & text-based AI assistant  
-- Analyzed symptoms and provided suggestions  
-- Supported multilingual interaction  
-- Enabled voice-based responses  
-
----
-
-### 🌐 Janani College Website
-**Technologies:** HTML, CSS, JavaScript  
-- Developed a responsive college website  
-- Created multiple pages for courses and details  
-- Added interactivity using JavaScript  
-- Designed a clean and user-friendly UI  
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
