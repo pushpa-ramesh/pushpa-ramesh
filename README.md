@@ -2,12 +2,6 @@
 
 <h3 align="center">🤖 AI & ML Student | Robotics Enthusiast | NLP Developer</h3>
 
-<p align="center">
-📍 Kunigal, Karnataka, India <br>
-📧 pushparamesh1337@gmail.com | 📞 +91 9964792721 <br>
-🔗 <a href="https://www.linkedin.com/in/pushpa-r-6a67b93a9">LinkedIn Profile</a>
-</p>
-
 ---
 
 ## 🚀 About Me
