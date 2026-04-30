@@ -1,16 +1,100 @@
-## Hi there 👋
+# 👋 Hi, I'm Pushpa R
 
-<!--
-**pushpa-ramesh/pushpa-ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🤖 AI & ML Student | Robotics Enthusiast | NLP Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+📍 Kunigal, Karnataka, India <br>
+📧 pushparamesh1337@gmail.com | 📞 +91 9964792721 <br>
+🔗 <a href="https://www.linkedin.com/in/pushpa-r-6a67b93a9">LinkedIn Profile</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+Enthusiastic and detail-oriented fresher seeking an opportunity in **Artificial Intelligence and Software Development**.
+
+I am passionate about developing **real-time intelligent systems** using:
+- 🤖 Robotics (ROS2-based systems)
+- 🧠 Machine Learning & Deep Learning
+- 🗣️ Natural Language Processing (NLP)
+- 🎤 Voice-enabled applications
+
+💡 I enjoy solving real-world problems by combining **AI + practical applications**.
+
+---
+
+## 🎓 Education
+🎓 **Government Tool Room and Training Centre, Magadi**  
+*Artificial Intelligence and Machine Learning (2023 – 2027)*  
+
+🏫 **Dr. B.R. Ambedkar Residential School**  
+*SSLC – 80% (2022 – 2023)*  
+
+---
+
+## 🛠️ Technical Skills
+
+### 👨‍💻 Programming Languages
+- Python  
+- Java  
+
+### 🤖 AI / ML & Robotics
+- Machine Learning  
+- Natural Language Processing (NLP)  
+- ROS2 (Robot Operating System)  
+
+### 🧰 Tools & Libraries
+- PyTorch  
+- Transformers (FLAN-T5)  
+- SpeechRecognition  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript  
+
+---
+
+## 📌 Projects
+
+### 🤖 LLM-Based Robot Commander (ROS2)
+**Technologies:** Python, ROS2, PyTorch, Transformers  
+- Developed a voice-controlled robot system  
+- Converted speech into movement commands  
+- Controlled robot using ROS2 communication  
+- Integrated LLM for intelligent responses  
+- Added voice feedback for interaction  
+
+---
+
+### 🩺 AyurAI: Smart Health Assistant
+**Technologies:** HTML, CSS, JavaScript, Web Speech API  
+- Built a voice & text-based AI assistant  
+- Analyzed symptoms and provided suggestions  
+- Supported multilingual interaction  
+- Enabled voice-based responses  
+
+---
+
+### 🌐 Janani College Website
+**Technologies:** HTML, CSS, JavaScript  
+- Developed a responsive college website  
+- Created multiple pages for courses and details  
+- Added interactivity using JavaScript  
+- Designed a clean and user-friendly UI  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="streak" />
+</p>
+
+---
+
+## 🧠 Areas of Interest
+```text
+Artificial Intelligence | Machine Learning | NLP | Robotics | Voice Systems
