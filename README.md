@@ -1,25 +1,35 @@
 <h1 align="center">Hi 👋, I'm Pushpa R</h1>
 
-<h3 align="center">💻 AI & ML Student | Web Developer | Robotics Enthusiast 🚀</h3>
+<h3 align="center">
+Artificial Intelligence & Machine Learning Student
+</h3>
+
+<h4 align="center">
+Web Developer • Robotics Enthusiast • AI Learner
+</h4>
+
+<br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Pushpa-Ramesh&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pushpa-Ramesh&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
 
-## 🌟 About Me
+## 👩‍💻 About Me
 
-✨ Diploma Student in Artificial Intelligence and Machine Learning  
-✨ Passionate About AI, Robotics & Web Development  
-✨ Building Innovative Projects and Intelligent Systems  
-✨ Karnataka, India 🇮🇳  
+- 🎓 Diploma Student in Artificial Intelligence and Machine Learning  
+- 💡 Passionate about AI, Robotics, and Modern Web Technologies  
+- 🌱 Currently learning Deep Learning and Intelligent Systems  
+- 🚀 Interested in building innovative real-world projects  
+- 📍 Karnataka, India  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
+
 <a href="mailto:pushparamesh1337@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -27,11 +37,12 @@
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
 <p align="left">
 
@@ -59,15 +70,20 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-🔹 Robot Commander  
-🔹 Smart Health Assistant  
-🔹 Janani College Website  
+### 🤖 Robot Commander
+Voice-controlled robotic system developed using Python, ROS2, PyTorch, and AI technologies.
+
+### 🏥 Smart Health Assistant
+Healthcare web application for medicine analysis and multilingual remedy suggestions.
+
+### 🏫 Janani College Website
+Responsive and user-friendly college website developed using HTML, CSS, and JavaScript.
 
 ---
 
-## 📊 Top Languages
+## 📊 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushpa-Ramesh&layout=compact&theme=tokyonight"/>
@@ -75,4 +91,6 @@
 
 ---
 
-<h3 align="center">✨ Code • Learn • Build • Repeat 🚀 ✨</h3>
+<h3 align="center">
+✨ Passionate About Building Intelligent and Innovative Solutions ✨
+</h3>
